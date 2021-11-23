@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVVMRunningApp</string>
+    <string name="google_maps_key">AIzaSyAjEkYky5_8LmE9v2mkTgVJH_G9hZgEW8s</string>
 </resources>
